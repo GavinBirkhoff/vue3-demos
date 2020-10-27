@@ -1,0 +1,28 @@
+{
+  "name": "vue3-demos",
+  "version": "1.0.0",
+  "description": "💡Study the characteristics of Vue API",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GavinBirkhoff/vue3-demos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GavinBirkhoff/vue3-demos/issues"
+  },
+  "homepage": "https://github.com/GavinBirkhoff/vue3-demos#readme",
+  "dependencies": {
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.8",
+    "@vue/compiler-sfc": "^3.0.2"
+  }
+}
